@@ -1,9 +1,5 @@
 # Pricing (Instant)
 
-::alert{type="danger"}
-Anda harus melakukan peningkatan sdk ke versi 1.2.0 untuk dapat menggunakan fitur ini https://mdev.juallagi.biz/api/mitra/shipping_price
-::
-
 ## Disclaimer
 Kami menggunakan base url yang berbeda dengan express, diharapkan untuk memperhatikan base url anda. Response yang disediakan api instant sedikit berbeda dengan api prod yaitu:
 
@@ -14,26 +10,8 @@ Kami menggunakan base url yang berbeda dengan express, diharapkan untuk memperha
   "result": "object|null"
 }
 ```
-Disarankan untuk menggunakan SDK untuk pembungkus yang lebih baik
-
-
-::code-group
-```php [PHP]
-$payload = new ShippingPriceInstantData();
-$payload->weight = 1000;
-$payload->origin_address = "BOKO";
-$payload->origin_long = 1.00;
-$payload->origin_lat = 1.00;
-$payload->destination_address = "BOKO";
-$payload->destination_long = 1.00;
-$payload->destination_lat = 1.00;
-$payload->item_price = 1000;
-
-$call = Blog.JualLagi.Biz::getPriceInstant($payload);
-
-```
 ```bash [POST]
-https://mdev.juallagi.biz/api/mitra/shipping_price
+https://mdev.juallagi.biz/open-api/v1/instants/price
 ```
 ::
 

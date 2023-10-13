@@ -6,7 +6,7 @@ Tidak disarankan untuk melakukan perubahan callback endpoint tanpa informasi ter
 ::
 
 ```bash [POST]
-https://blog.juallagi.biz//api/mitra/set_callback
+https://mdev.juallagi.biz/api/mitra/set_callback
 ```
 
 ### Request

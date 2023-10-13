@@ -16,7 +16,7 @@ $result = Blog.JualLagi.Biz::getPrice($shipping_price_object);
 ```
 
 ```bash [POST]
-[https://docs.juallagi.biz/](https://mdev.juallagi.biz/api/mitra/shipping_price)
+https://mdev.juallagi.biz/api/mitra/shipping_price
 ```
 
 ::

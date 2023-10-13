@@ -3,7 +3,7 @@ Atur layanan yang ditampilkan ke akunmu, untuk layanan yang tersedia silahkan ce
 
 
 ```bash [POST]
-https://mdev.juallagi.biz/api/mitra/shipping_price
+https://mdev.juallagi.biz/api/mitra/v3/set_whitelist_services
 ```
 ::
 
