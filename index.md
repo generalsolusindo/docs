@@ -16,19 +16,6 @@ Silakan baca dokumen sekilas tentang Blog.JualLagi.Biz jika Anda tidak yakin apa
 
 ## Integrasi:
 
-Untuk developer yang menggunakan stack PHP, Node disarankan untuk melakukan integrasi melalui SDK
-
-::code-group
-```bash [Composer]
-composer require juallagi.biz/blog.juallagi.biz-php
-```
-```bash [Yarn (Coming Soon)]
-yarn add juallagi.biz/node
-```
-```bash [NPM (Coming Soon)]
-npm install juallagi.biz/node
-```
-::
 
 Hubungi kami untuk mendapatkan ``Bearer {token}`` untuk sandbox dan production. Semua paket melalui sandbox mungkin dibatalkan sewaktu-waktu. Respon antara sandbox dan production sama persis, hanya keakuratan data yang berbeda.
 
