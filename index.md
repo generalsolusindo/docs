@@ -3,6 +3,17 @@ icon: material-symbols:bolt-rounded
 layout: default
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contoh Gambar</title>
+</head>
+<body>
+    <img src="logo horizontal.png" width="300">
+</body>
+</html>
+
+
 # Get Started
 
 **Welcome to Blog.JualLagi.Biz API!**
