@@ -1,0 +1,35 @@
+# Void
+
+Pembatalan paket yang sedang dalam proses menunggu pickup / menunggu diantar
+
+::code-group
+```php [Express]
+Blog.JualLagi.Biz::cancelShipment((string) $waybill,(string)  $reason);
+
+// [POST] https://blog.juallagi.biz//api/mitra/v3/cancel_shipment
+
+```
+```php [Instant]
+$isInstant = true;
+Blog.JualLagi.Biz::cancelShipment((string) $orderId,(string) $reason, (bool) $isInstant);
+
+// [DELETE] https://apieks-staging.juallagi.biz/open-api/v1/instants/{order_id}
+// Fill $reason with empty string for instant void
+```
+::
+
+## Disclaimer
+Khusus paket **Non-COD** akan melalui proses antrian maksimal 2x24jam untuk benar-benar void dari sistem. Untuk paket COD akan dibatalkan saat itu juga.
+
+## Request
+
+### Express
+| Param      | DataType              | Nullable  | Description                                   |
+|------------|-----------------------|-----------|-----------------------------------------------|
+| ``awb``    | string(30)            | ``false`` | AWB yang sudah didapatkan, bukan ``order_id`` |
+| ``reason`` | string(min:5,max:200) | ``false`` | Alasan pembatalan paket                       |
+
+### Instant
+| Param        | DataType              | Nullable  | Description               |
+|--------------|-----------------------|-----------|---------------------------|
+| ``order_id`` | string(30)            | ``false`` | Nomor referensi `order_id` |
