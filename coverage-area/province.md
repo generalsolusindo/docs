@@ -5,7 +5,7 @@ Kami menjangkau seluruh provinsi di indonesia, namun untuk kebutuhan expedisi ak
 ```bash [POST]
 https://docs.juallagi.biz/
 ```
-::
+
 
 ## Response Sample
 
