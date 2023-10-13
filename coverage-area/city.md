@@ -3,7 +3,8 @@
 List kabupaten / kota  yang tercover oleh juallagi.biz. Kami akan menginformasikan jika terjadi perubahan data dari ekspedisi.
 
 
-```bash [POST]
+```
+bash [POST]
 https://mdev.juallagi.biz/api/mitra/shipping_price
 ```
 ::
