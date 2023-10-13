@@ -3,7 +3,7 @@ Kecamatan yang kami buka untuk seluruh ekspedisi, dukungan penjemputan dan cashl
 
 
 ```bash [POST]
-https://mdev.juallagi.biz/api/mitra/shipping_price
+https://mdev.juallagi.biz/api/mitra/kecamatan
 ```
 ::
 

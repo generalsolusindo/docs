@@ -2,12 +2,11 @@
 
 Pembatalan paket yang sedang dalam proses menunggu pickup / menunggu diantar
 
-::code-group
-```php [Express]
-Blog.JualLagi.Biz::cancelShipment((string) $waybill,(string)  $reason);
-
-// [POST] https://blog.juallagi.biz//api/mitra/v3/cancel_shipment
-
+```
+POST
+``` 
+https://blog.juallagi.biz//api/mitra/v3/cancel_shipment |
+-------------------------------------------------------|
 ```
 ```php [Instant]
 $isInstant = true;

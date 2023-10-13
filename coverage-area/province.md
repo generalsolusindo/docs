@@ -3,7 +3,7 @@
 Kami menjangkau seluruh provinsi di indonesia, namun untuk kebutuhan expedisi akan berbeda mengikuti kebutuhan masing-masing
 
 ```bash [POST]
-https://docs.juallagi.biz/
+https://mdev.juallagi.biz/api/mitra/province
 ```
 
 

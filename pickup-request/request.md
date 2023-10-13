@@ -4,7 +4,7 @@ Endpoint super kami, gunakan data se valid mungkin untuk menghindari koreksi dar
 
 
 ```bash [POST]
-https://mdev.juallagi.biz/api/mitra/shipping_price
+https://mdev.juallagi.biz/api/mitra/v2/request_pickup
 ```
 ::
 

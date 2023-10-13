@@ -3,7 +3,7 @@ List kecamatan dengan pencarian langsung dengan nama. Kami membatasi request men
 
 
 ```bash [POST]
-http://mdev.juallagi.biz/
+https://mdev.juallagi.biz/api/mitra/v2/get_address_by_name
 ```
 ::
 
