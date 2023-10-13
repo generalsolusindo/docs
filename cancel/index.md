@@ -8,9 +8,6 @@ POST
 https://blog.juallagi.biz//api/mitra/v3/cancel_shipment |
 -------------------------------------------------------|
 ```
-```php [Instant]
-$isInstant = true;
-Blog.JualLagi.Biz::cancelShipment((string) $orderId,(string) $reason, (bool) $isInstant);
 
 // [DELETE] https://apieks-staging.juallagi.biz/open-api/v1/instants/{order_id}
 // Fill $reason with empty string for instant void
