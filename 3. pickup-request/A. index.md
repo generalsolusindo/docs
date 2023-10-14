@@ -2,9 +2,11 @@
 Jadwal penjemputan paket, abaikan untuk paket dropoff
 
 
-```shell [POST]
-https://mdev.juallagi.biz/api/mitra/v2/schedules
-```
+POST                                      |
+---------------------------------------------------|
+https://mdev.juallagi.biz/api/mitra/v2/schedules |
+
+
 ::
 
 ### Response

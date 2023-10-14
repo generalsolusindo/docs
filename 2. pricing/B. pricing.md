@@ -3,21 +3,10 @@
 Temukan harga terbaik dari bermacam ekspedisi untuk platform mu
 
 
-```php [PHP]
-$shipping_price_object = new ShippingPriceData();
-$shipping_price_object->origin = 1063;
-$shipping_price_object->destination = 1064;
-$shipping_price_object->weight = 1000;
-$shipping_price_object->insurance = 1;
-$shipping_price_object->item_value = 100000;
-$shipping_price_object->courier = ['jne'];
+POST                                      |
+---------------------------------------------------|
+https://mdev.juallagi.biz/api/mitra/shipping_price |
 
-$result = Blog.JualLagi.Biz::getPrice($shipping_price_object);
-```
-
-```bash [POST]
-https://mdev.juallagi.biz/api/mitra/shipping_price
-```
 
 ::
 

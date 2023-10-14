@@ -5,9 +5,10 @@ Get the QRIS code token for yor app"
 ![Flow](https://static.swimlanes.io/b30be238df3e330e54b7cf1add8a4f8a.png)
 
 
-``` 
-[POST] https://mdev.juallagi.biz/api/mitra/v2/get_payment
-```
+POST                                      |
+---------------------------------------------------|
+https://mdev.juallagi.biz/api/mitra/v2/get_payment |
+
 
 
 // [GET] http://mdev.juallagi.biz/

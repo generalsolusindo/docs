@@ -10,9 +10,10 @@ Kami menggunakan base url yang berbeda dengan express, diharapkan untuk memperha
   "result": "object|null"
 }
 ```
-```bash [POST]
-https://mdev.juallagi.biz/open-api/v1/instants/price
-```
+POST                                      |
+---------------------------------------------------|
+https://mdev.juallagi.biz/open-api/v1/instants/price |
+
 ::
 
 

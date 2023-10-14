@@ -2,9 +2,10 @@
 
 Data tracking diambil dari 2 sumber, yaitu Blog. JualLagi.Biz dan pihak expedisi yang digabungkan menjadi satu.
 
-```bash [POST]
-https://mdev.juallagi.biz/api/mitra/tracking
-```
+
+POST                                                   |
+-------------------------------------------------------|
+https://mdev.juallagi.biz//api/mitra/tracking |
 
 ::
 

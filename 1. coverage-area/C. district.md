@@ -2,9 +2,10 @@
 Kecamatan yang kami buka untuk seluruh ekspedisi, dukungan penjemputan dan cashless akan sering berubah-ubah. Kami akan berusaha melakukan followup kepadamu
 
 
-```bash [POST]
-https://mdev.juallagi.biz/api/mitra/kecamatan
-```
+POST                                      |
+---------------------------------------------------|
+https://mdev.juallagi.biz/api/mitra/kecamatan |
+
 ::
 
 ### Request

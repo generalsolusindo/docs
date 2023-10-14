@@ -5,9 +5,10 @@ Alamat callback harus memiliki catatan A atau AAAA yang valid. Kami akan menolak
 Tidak disarankan untuk melakukan perubahan callback endpoint tanpa informasi terlebih dahulu
 ::
 
-```bash [POST]
-https://mdev.juallagi.biz/api/mitra/set_callback
-```
+POST                                                   |
+-------------------------------------------------------|
+https://mdev.juallagi.biz//api/mitra/set_callback |
+
 
 ### Request
 

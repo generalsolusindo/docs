@@ -2,9 +2,11 @@
 Atur layanan yang ditampilkan ke akunmu, untuk layanan yang tersedia silahkan cek di halaman pricing
 
 
-```bash [POST]
-https://mdev.juallagi.biz/api/mitra/v3/set_whitelist_services
-```
+POST                                                   |
+-------------------------------------------------------|
+https://mdev.juallagi.biz//api/mitra/v3/set_whitelist_services |
+
+
 ::
 
 ## Request

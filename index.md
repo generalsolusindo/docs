@@ -22,9 +22,6 @@ Ini adalah situs web dokumentasi resmi untuk API. Kami telah membagi dokumentasi
 
 Silakan baca dokumen sekilas tentang Blog.JualLagi.Biz jika Anda tidak yakin apakah Blog.JualLagi.Biz akan sesuai dengan kebutuhan Anda atau sesuai dengan gaya pemrograman.
 
-**Requirement**
-- PHP ^8.0 (jika menggunakan SDK)
-- Pengetahuan tentang RestAPI
 
 ## Integrasi:
 
