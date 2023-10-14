@@ -8,9 +8,6 @@ POST                                                   |
 https://mdev.juallagi.biz//api/mitra/v3/cancel_shipment |
 
 
-// [DELETE] https://apieks-staging.juallagi.biz/open-api/v1/instants/{order_id}
-// Fill $reason with empty string for instant void
-```
 ::
 
 ## Disclaimer
