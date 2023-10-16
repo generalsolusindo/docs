@@ -1,6 +1,6 @@
 # Tracking (Express)
 
-Data tracking diambil dari 2 sumber, yaitu Blog. JualLagi.Biz dan pihak expedisi yang digabungkan menjadi satu.
+Data tracking diambil dari 2 sumber, yaitu JualLagi.Biz dan pihak expedisi yang digabungkan menjadi satu.
 
 
 
