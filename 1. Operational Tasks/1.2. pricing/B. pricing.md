@@ -30,7 +30,7 @@ aktual maka nilai hasil perhitungan berat dimensi yang dikirimkan saat melakukan
 | ``item_value``  | int     | ``true``  | Wajib diisi jika ``insurance`` diisi. Atau diisi untuk menghitung biaya COD dari paket (jika COD)   |
 | ``courier``     | string or array | ``true``  | Untuk mengetahui list kurir silahkan hubungi kami   |
 
-Data **origin** dan **destination** dalam area Blog.JualLagi.Biz tidak menjamin ketersediaan tarif di semua kurir ekspedisi.
+Data **origin** dan **destination** dalam area JualLagi.Biz tidak menjamin ketersediaan tarif di semua kurir ekspedisi.
 Ketersediaan layanan mengikuti area yang diberikan oleh ekspedisi kepada sistem kami.
 
 ```json
@@ -110,9 +110,9 @@ Ketersediaan layanan mengikuti area yang diberikan oleh ekspedisi kepada sistem 
 
 | Field    | Description  |
 |------------------|--------------------------------------------------------------------------------------------------------------|
-| ``service``      | Kode layanan dari kurir yang terdata di sistem Blog.JualLagi.Biz    |
-| ``service_name`` | Nama layanan dari kurir yang terdata di sistem Blog.JualLagi.Biz    |
-| ``service_type`` | Kode tipe layanan dari kurir yang terdata di sistem Blog.JualLagi.Biz       |
+| ``service``      | Kode layanan dari kurir yang terdata di sistem blog.juallagi.biz    |
+| ``service_name`` | Nama layanan dari kurir yang terdata di sistem Blog.juallagi.biz    |
+| ``service_type`` | Kode tipe layanan dari kurir yang terdata di sistem blog.juallagi.biz       |
 | ``cost`` | Biaya ongkos kirim   |
 | ``cod``  | Dukungan cod untuk layanan ini       |
 | ``group``| Grouping layanan untuk kebutuhan simplicity app      |

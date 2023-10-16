@@ -8,11 +8,11 @@ layout: default
 
 # Get Started
 
-**Welcome to Blog.JualLagi.Biz API!**
+**Welcome to docs.juallagi.biz API!**
 
 Ini adalah situs web dokumentasi resmi untuk API. Kami telah membagi dokumentasi menjadi beberapa kelompok, masing-masing mencoba untuk mengatasi kasus penggunaan atau audiens tertentu.
 
-Silakan baca dokumen sekilas tentang blog.JualLagi.biz jika Anda tidak yakin apakah blog.JualLagi.biz akan sesuai dengan kebutuhan Anda atau sesuai dengan gaya pemrograman.
+Silakan baca dokumen sekilas tentang juallagi.biz jika Anda tidak yakin apakah juallagi.biz akan sesuai dengan kebutuhan Anda atau sesuai dengan gaya pemrograman.
 
 
 ## Integrasi:

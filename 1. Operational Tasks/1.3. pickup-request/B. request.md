@@ -38,7 +38,7 @@ https://mdev.juallagi.biz/api/mitra/v2/request_pickup |
 | ``item_value``               | int                    | ``false`` | Nilai barang secara keseluruhan                                                            |
 | ``shipping_cost``            | int                    | ``false`` | Biaya pengiriman, see # Shipping Price section                                             |
 | ``service``                  | string                 | ``false`` | Lihat shipping price untuk ini                                                             |
-| ``insurance_amount``         | numeric                | ``true``  | Lihat [Syarat & Ketentuan](https://blog.juallagi.biz/syarat-ketentuan)                        |
+| ``insurance_amount``         | numeric                | ``true``  | Lihat [Syarat & Ketentuan](https://blog.juallagi.biz/kebijakan-privasi/)                        |
 | ``service_type``             | string                 | ``false`` | The service type, like ``EZ``, ``REG``, ``CTC``, ``OKE``, etc (see shipping price section) |
 | ``cod``                      | int                    | ``false`` | COD PRICE ***NB : Isi 0 untuk paket non COD***                                             |
 | ``package_type_id``          | int                    | ``false`` | Tipe paket tersedia untuk sementara ``1``                                                  |
@@ -57,7 +57,7 @@ Untuk mempercepat request pickup, kami hanya melakukan pengecekan ulang biaya pe
 | ``item_value``         | 20000                                                               |
 | ``shipping_cost``      | 15000                                                               |
 | ``insurance_amount``   | 500                                                                 |
-| ``cod_fee`` (from T&A) | Lihat [Syarat & Ketentuan](https://blog.juallagi.biz/.com/syarat-ketentuan) |
+| ``cod_fee`` (from T&A) | Lihat [Syarat & Ketentuan](https://blog.juallagi.biz) |
 | --------               | +++++++                                                             |
 | ``total``              | 35500                                                               |
 | ``add_cost``           | ``total`` * ``cod_fee`` and rounded up to 1 (ex : 1000,27 to 1001)  |
@@ -67,7 +67,7 @@ Untuk mempercepat request pickup, kami hanya melakukan pengecekan ulang biaya pe
 | Param                     | Amount                                                                                     |
 |---------------------------|--------------------------------------------------------------------------------------------|
 | ``item_value``            | 20000                                                                                      |
-| ``percentage`` (from T&A) | tergantung ekspedisi (Lihat [Syarat & Ketentuan](https://blog.juallagi.biz/syarat-ketentuan)) | 
+| ``percentage`` (from T&A) | tergantung ekspedisi (Lihat [Syarat & Ketentuan](https://blog.juallagi.biz/)) | 
 | --------                  | *******                                                                                    |
 | ``insurance_amount``      | ``item_value`` * ``percentage`` and rounded up to 100                                      |
 
