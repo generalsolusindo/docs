@@ -1,15 +1,12 @@
 # Service
 List kurir yang tersedia dalam API JualLagi.Biz, staging dan production mungkin akan menjadi perbedaan
+<br>
 
-::alert{type="info"}
-**Perhatian!** <br/>
-Ketersediaan layanan COD, Pickup, dan Dropoff dapat berubah sewaktu-waktu mengikuti ketentuan ekspedisi.
-::
+> ⚠️ **Perhatian!**
+> 
+> Ketersediaan layanan COD, Pickup, dan Dropoff dapat berubah sewaktu-waktu mengikuti ketentuan ekspedisi
 
-::alert{type="danger"}
-**Perhatian!** <br/>
-Ketersediaan layanan COD, Pickup, dan Dropoff dapat berubah sewaktu-waktu mengikuti ketentuan ekspedisi.
-::
+<br>
 
 ## Express
 
@@ -38,4 +35,3 @@ Ketersediaan layanan COD, Pickup, dan Dropoff dapat berubah sewaktu-waktu mengik
 
 Kurir yang tersedia pada tabel diatas mungkin akan menyesuaikan area coverage serta server yang digunakan. Hubungi tim teknis kami untuk informasi lebih lanjut.
 
-::button-link[Opsi Layanan]{href="/docs/others/service"}

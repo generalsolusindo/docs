@@ -2,8 +2,8 @@
 List kecamatan dengan pencarian langsung dengan nama. Kami membatasi request menggunakan throttle limitation, jika terlalu berdekatan maka sistem akan melakukan suspend API call anda sementara
 
 
-POST                                      |
----------------------------------------------------|
+POST|
+:---|
 https://mdev.juallagi.biz/api/mitra/v2/get_address_by_name |
 
 

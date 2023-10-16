@@ -2,12 +2,13 @@
 
 List kabupaten / kota  yang tercover oleh juallagi.biz. Kami akan menginformasikan jika terjadi perubahan data dari ekspedisi.
 
+<br>
 
-POST                                      |
----------------------------------------------------|
+POST|
+:---|
 https://mdev.juallagi.biz/api/mitra/city |
 
-::
+<br>
 
 ### Request
 | Field           | DataType | Nullable  | Desc     |

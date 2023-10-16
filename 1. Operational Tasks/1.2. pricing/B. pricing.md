@@ -3,12 +3,14 @@
 Temukan harga terbaik dari bermacam ekspedisi untuk platform mu
 
 
+
+
+
 POST                                      |
----------------------------------------------------|
+:---------------------------------------------------|
 https://mdev.juallagi.biz/api/mitra/shipping_price |
 
-
-::
+<br>
 
 ### Rumus Berat Dimensi
 
@@ -104,7 +106,7 @@ Ketersediaan layanan mengikuti area yang diberikan oleh ekspedisi kepada sistem 
 }
 ```
 
-**Response Explaination**
+### Response Explaination
 
 | Field    | Description  |
 |------------------|--------------------------------------------------------------------------------------------------------------|
@@ -120,6 +122,3 @@ Ketersediaan layanan mengikuti area yang diberikan oleh ekspedisi kepada sistem 
 Harap untuk menyimpan data service yang akan dipilih ke sistem anda, kami membutuhkan nilai **cost** untuk anda kirimkan
 sebagai parameter **shipping_cost** di object dalam array paket
 
-### Playground
-
-::button-link[COD Playground]{href="/tools"}

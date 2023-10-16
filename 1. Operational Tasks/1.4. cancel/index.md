@@ -2,9 +2,10 @@
 
 Pembatalan paket yang sedang dalam proses menunggu pickup / menunggu diantar
 
+<br>
 
 POST                                                   |
--------------------------------------------------------|
+:-------------------------------------------------------|
 https://mdev.juallagi.biz//api/mitra/v3/cancel_shipment |
 
 
@@ -15,13 +16,13 @@ Khusus paket **Non-COD** akan melalui proses antrian maksimal 2x24jam untuk bena
 
 ## Request
 
-### Express
+#### Express
 | Param      | DataType              | Nullable  | Description                                   |
 |------------|-----------------------|-----------|-----------------------------------------------|
 | ``awb``    | string(30)            | ``false`` | AWB yang sudah didapatkan, bukan ``order_id`` |
 | ``reason`` | string(min:5,max:200) | ``false`` | Alasan pembatalan paket                       |
 
-### Instant
+#### Instant
 | Param        | DataType              | Nullable  | Description               |
 |--------------|-----------------------|-----------|---------------------------|
 | ``order_id`` | string(30)            | ``false`` | Nomor referensi `order_id` |

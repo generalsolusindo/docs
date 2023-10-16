@@ -12,5 +12,3 @@ Shipping label untuk setiap paket yang akan dikirimkan melalui ekspedisi dengan 
 - Informasi Barang (Harga, Asuransi)
 - Catatan Tambahan (Pembelian, Toko, dll)
 
-### Example
-![Shipping Label Sampple](/shipping-label-1.png)

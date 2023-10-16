@@ -1,12 +1,13 @@
 # District
 Kecamatan yang kami buka untuk seluruh ekspedisi, dukungan penjemputan dan cashless akan sering berubah-ubah. Kami akan berusaha melakukan followup kepadamu
 
+<br>
 
-POST                                      |
----------------------------------------------------|
+POST|
+:----|
 https://mdev.juallagi.biz/api/mitra/kecamatan |
 
-::
+<br>
 
 ### Request
 | Field            | DataType | Nullable  | Desc         |
@@ -17,6 +18,8 @@ https://mdev.juallagi.biz/api/mitra/kecamatan |
   "kabupaten_id": 419
 }
 ```
+
+<br>
 
 ### Response
 ```json

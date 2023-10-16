@@ -11,10 +11,10 @@ Kami menggunakan base url yang berbeda dengan express, diharapkan untuk memperha
 }
 ```
 POST                                      |
----------------------------------------------------|
+:---------------------------------------------------|
 https://mdev.juallagi.biz/open-api/v1/instants/price |
 
-::
+<br>
 
 
 ## Request 

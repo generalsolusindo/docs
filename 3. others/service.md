@@ -96,4 +96,4 @@ Dokumen ini adalah catatan spesifik yang disediakan oleh masing-masing ekspedisi
 |-----------|----------|
 | `sameday` | Same Day |
 
-::button-link[Ketersediaan Ekspedisi]{href="/docs/pricing/service-list"}
+

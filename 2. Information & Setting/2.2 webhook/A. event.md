@@ -1,11 +1,19 @@
 # Event (Express)
 Kami akan menggunakan protokol RestAPI dengan body berupa JSON object.
 
+<br>
 
-Anda dapat memanfaatkan endpoint tracking jika terjadi galat ketika menerima webhook dari kami
+> **&#x24D8; informasi**
+>
+>Anda dapat memanfaatkan endpoint tracking jika terjadi galat ketika menerima webhook dari kami
 
-Format selalu menggunakan ``YYYY-MM-DD HH:i:s`` (PHP date format) contoh seperti dibawah. Silahkan sesuaikan dengan
+<br>
+
+> **&#x24D8; informasi**
+>
+>Format selalu menggunakan ``YYYY-MM-DD HH:i:s`` (PHP date format) contoh seperti dibawah. Silahkan sesuaikan dengan
 bahasa program yang anda gunakan.
+
 ::
 
 

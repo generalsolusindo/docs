@@ -2,9 +2,13 @@
 
 Kami menjangkau seluruh provinsi di indonesia, namun untuk kebutuhan expedisi akan berbeda mengikuti kebutuhan masing-masing
 
-POST                                      |
----------------------------------------------------|
+<br>
+
+POST|
+:---|
 https://mdev.juallagi.biz/api/mitra/province |
+
+<br>
 
 
 ## Response Sample

@@ -1,9 +1,15 @@
 # Preference
-Alamat callback harus memiliki catatan A atau AAAA yang valid. Kami akan menolak URL yang belum dapat diakses. Untuk saat ini, hanya satu callback / webhook yang diperbolehkan. Maka harap perhatikan dan persiapkan baik-baik. Method yang kami kirimkan adalah POST. Segala bentuk kesalahan didalam sistem anda bukan tanggungjawab kami.
+Alamat callback harus memiliki catatan A atau AAAA yang valid. Kami akan menolak URL yang belum dapat diakses. Untuk saat ini, hanya satu callback / webhook yang diperbolehkan. Maka harap perhatikan dan persiapkan baik - baik. Method yang kami kirimkan adalah POST. Segala bentuk kesalahan didalam sistem anda bukan tanggung jawab kami.
 
-::alert{type="danger"}
-Tidak disarankan untuk melakukan perubahan callback endpoint tanpa informasi terlebih dahulu
-::
+<br>
+
+> ❌ **Peringatan**
+> 
+> Tidak disarankan untuk melakukan perubahan callback endpoint tanpa informasi terlebih dahulu
+
+
+<br>
+
 
 POST                                                   |
 -------------------------------------------------------|

@@ -3,15 +3,7 @@ icon: material-symbols:bolt-rounded
 layout: default
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Contoh Gambar</title>
-</head>
-<body>
-    <img src="logo horizontal.png" width="300">
-</body>
-</html>
+<img src="./img/logo_horizontal.png" alt="gambar juallagi" width="300">
 
 
 # Get Started
@@ -20,7 +12,7 @@ layout: default
 
 Ini adalah situs web dokumentasi resmi untuk API. Kami telah membagi dokumentasi menjadi beberapa kelompok, masing-masing mencoba untuk mengatasi kasus penggunaan atau audiens tertentu.
 
-Silakan baca dokumen sekilas tentang Blog.JualLagi.Biz jika Anda tidak yakin apakah Blog.JualLagi.Biz akan sesuai dengan kebutuhan Anda atau sesuai dengan gaya pemrograman.
+Silakan baca dokumen sekilas tentang blog.JualLagi.biz jika Anda tidak yakin apakah blog.JualLagi.biz akan sesuai dengan kebutuhan Anda atau sesuai dengan gaya pemrograman.
 
 
 ## Integrasi:

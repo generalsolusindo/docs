@@ -1,13 +1,14 @@
 # Schedule (Express)
 Jadwal penjemputan paket, abaikan untuk paket dropoff
 
+<br>
 
 POST                                      |
----------------------------------------------------|
+:---------------------------------------------------|
 https://mdev.juallagi.biz/api/mitra/v2/schedules |
 
 
-::
+<br>
 
 ### Response
 ```json
